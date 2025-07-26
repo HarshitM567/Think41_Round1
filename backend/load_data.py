@@ -10,3 +10,4 @@ def load_csv_to_db(csv_file_path):
             print("Products loaded successfully.")
 if __name__ == "__main__":
     load_csv_to_db("data/products.csv")
+# Adjust path as needed
